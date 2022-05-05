@@ -1,4 +1,4 @@
-# -Responsive-Web-Dev-UA-2-IBM
+# Responsive-Web-Dev-UA-2-IBM
 
 User Assignment – 2
 
